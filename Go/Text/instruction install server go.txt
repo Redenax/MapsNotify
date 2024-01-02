@@ -1,0 +1,12 @@
+installare go
+go install  googlemaps.github.io/maps@latest
+go mod init example
+go mod tidy
+------------------------------------------------------
+*WINDOWS FIREWALL IN LUOGO PUBBLICO POTREBBE BLOCCARE API GRPC*
+------------------------------------------------------
+se necessario per migrazione codice -- Documentazione google deprecata
+go run cloud.google.com/go/internal/aliasfix/cmd/aliasfix@latest C:\Users\ASUS\Desktop\APL_PROGETTO
+go mod tidy
+go get -u github.com/go-sql-driver/mysql
+INSTALLAZIONE GIT NECESSARIA

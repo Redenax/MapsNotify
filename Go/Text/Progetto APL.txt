@@ -1,0 +1,19 @@
+Progetto APL
+
+Struttura
+
+Go -> Server
+
+C# -> Manager APP Desktop
+
+Python -> Bot Telegram Notify
+
+----------------------------------
+Python -> Bot telegram che Riceve Notifiche sui percorsi alla quale ci siano iscritti con relativo login 
+
+C# -> Manager App che ci permette di iscriverci ai determinati percorsi per visualizzare info sulla durata del percorso e stato del traffico
+
+Go -> Server che permette comunicazione con i vari client, instaura connessione con API GOOGLE per i dati necessari e permette di salvare informazione sul traffico e relativa richiesta da parte di utente specifico.
+
+
+
