@@ -16,7 +16,7 @@ import (
 
 const (
 	fieldMask  = "*"
-	apiKey     = "AIzaSyAcmeawBhpWjHpmEan-60vWy1p-L3YYjRI"
+	apiKey     = "token_da_inserire"
 	serverAddr = "routes.googleapis.com:443"
 )
 

@@ -65,7 +65,7 @@ func getCoordinates(address string, key string) (float64, float64, error) {
 
 func StartUpConnection(Location string) (float64, float64) {
 	// Set the Google Maps API key
-	key := "AIzaSyAcmeawBhpWjHpmEan-60vWy1p-L3YYjRI"
+	key := "token_da_inserire"
 
 	// Get the coordinates
 	param := url.PathEscape(Location)
