@@ -13,3 +13,4 @@ e un inserimento di una route:
 }
  
 successivamente è possibile mediante il bot telegram effettuare l'accesso al servizio inserendo l'email e la password al seguente bot @Traffic_detection_bot.
+Inoltre quando si avviano i server mediante utilizzo del docker compose sono state impostate delle wait di 2 minuti per permettere l'avvio dei server mysql.
